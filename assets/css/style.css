@@ -100,7 +100,6 @@ header ul li:last-child {
     width: 320px;
     height: 420px;
     border-radius: 30px;
-    background-color: none;
 }
 
 #back-img {
@@ -343,7 +342,6 @@ header ul li:last-child {
     .portfolio-title {
         width: 100%;
     }
-
 
     .portfolio-work a {
         width: 80%;
