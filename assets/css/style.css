@@ -92,7 +92,7 @@ header ul li:last-child {
     position: relative;
 }
 
-nt-img {
+#front-img {
     z-index: 20;
     position: relative;
     top: 80px;
