@@ -200,7 +200,7 @@ nt-img {
     margin-top: 225px;
 }
 
-.portfolio-title h4 {
+.portfolio-title h3 {
     display: none;
 }
 
@@ -247,7 +247,7 @@ nt-img {
     width: 10%;
 }
 
-.contact-me h4 {
+.contact-me h2 {
     color: #f5f5f5;
     font-size: 17px;
     display: flex;
