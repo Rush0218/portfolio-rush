@@ -14,4 +14,4 @@ https://rush0218.github.io/portfolio-rush/
 Made with ❤️  by Tre' R.
 
 ## Screenshot
-![Alt Text](/Users/trerush/Documents/projects/portfolio-rush/assets/images/Screenshot-port.png)
+![Alt Text](assets/images/Screenshot-port.png)
